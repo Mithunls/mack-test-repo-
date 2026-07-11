@@ -1,1 +1,1 @@
-This product.html file
+print("Hello")
